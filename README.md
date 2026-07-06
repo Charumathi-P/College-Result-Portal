@@ -19,12 +19,6 @@ A simple web-based application that allows students to view their examination re
 * Java (Spring Boot) / Node.js (Backend)
 * MySQL
 
-
-```text
-
-
-```
-
 ## 📌 How to Run
 1. Download or clone this repository.
 2. Open the project in VS Code.
